@@ -1,0 +1,21 @@
+{
+  "name": "toonsbot-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "nodemon ./src/index.js"
+  },
+  "author": "Aurelions",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "discord.js": "^13.2.0-dev.1632744178.3b14883",
+    "dotenv": "^10.0.0",
+    "node-fetch": "^3.0.0",
+    "qs": "^6.10.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}
